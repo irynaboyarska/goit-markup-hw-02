@@ -81,3 +81,64 @@ a{
     color: #404BBF;
 }
 /* #endregion header */
+
+/* #region section hero */
+.hero-section{
+    background-color: #2E2F42;
+}
+
+.hero-title{
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.hero-button{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    background-color: #4D5AE5;
+}
+
+.hero-button:hover, .title-button:focus{
+    background-color: #404BBF;
+}
+/* #endregion section hero */
+
+/* #region values */
+.values{
+
+}
+
+.values-title{
+
+}
+
+.values-list{
+
+}
+
+.values-list-item{
+
+}
+
+.list-item-title{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+
+.values-text{
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+/* #endregion values */
+
+/*  */
