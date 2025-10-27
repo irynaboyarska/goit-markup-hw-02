@@ -100,6 +100,7 @@ a{
     color: #ffffff;
     background-color: #4D5AE5;
     cursor: pointer;
+    font-family: inherit;
 }
 
 .hero-button:hover, .title-button:focus{
