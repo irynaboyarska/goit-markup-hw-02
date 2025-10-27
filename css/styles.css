@@ -45,6 +45,7 @@ a{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .nav-link:hover, .nav-link:focus{
@@ -63,7 +64,6 @@ a{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 
 
@@ -126,13 +126,13 @@ a{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .values-text{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 /* #endregion values */
 
@@ -148,6 +148,7 @@ a{
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
+    color: #2E2F42;
 }
 
 .team-list{
@@ -162,13 +163,13 @@ a{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .team-text{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 /* #endregion team  */
 
@@ -183,6 +184,7 @@ a{
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
+    color: #2E2F42;
 }
 
 .portfolio-list{
@@ -196,13 +198,13 @@ a{
     font-size: 20px;
     line-height: 1.2;
     letter-spacing: 0.02em;
+    color: #2E2F42;
 }
 
 .portfolio-text{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 /* #endregion portfolio */
 
